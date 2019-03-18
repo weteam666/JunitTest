@@ -1,11 +1,13 @@
-git clone git@github.com:weteam666/JunitTest.git  À­È¡Ô¶³Ì²Ö¿â
+git clone git@github.com:weteam666/JunitTest.git  #æ‹‰å–è¿œç¨‹ä»“åº“
 
-git status  ²é¿´±¾µØ²Ö¿âÊÇ·ñÓĞ¸üĞÂ
+git status  #æŸ¥çœ‹æœ¬åœ°ä»“åº“æ˜¯å¦æœ‰æ›´æ–°
 
-git add . Ìí¼Ó¸üĞÂµ½ Ôİ´æÇø
+git add . #æ·»åŠ æ›´æ–°åˆ° æš‚å­˜åŒº
 
-git commit -m "ĞÅÏ¢" Ìá½»¸üĞÂµ½±¾µØ²Ö¿â
+git commit -m "ä¿¡æ¯" #æäº¤æ›´æ–°åˆ°æœ¬åœ°ä»“åº“
 
-git push -remote -branch °Ñ±¾µØ²Ö¿â¸üĞÂÍÆËÍµ½Ô¶³Ì²Ö¿â
+git push -remote -branch #æŠŠæœ¬åœ°ä»“åº“æ›´æ–°æ¨é€åˆ°è¿œç¨‹ä»“åº“
 
-git pull -remote  À­È¡Ô¶³Ì²Ö¿âµÄ¸üĞÂ 
+git pull -remote  #æ‹‰å–è¿œç¨‹ä»“åº“çš„æ›´æ–° 
+
+pull origin master â€“allow-unrelated-histories #åŒæ­¥è¿œç¨‹åº“å’Œæœ¬åœ°åº“çš„æ“ä½œå†å²
