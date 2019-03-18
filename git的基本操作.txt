@@ -1,0 +1,11 @@
+git clone git@github.com:weteam666/JunitTest.git  拉取远程仓库
+
+git status  查看本地仓库是否有更新
+
+git add . 添加更新到 暂存区
+
+git commit -m "信息" 提交更新到本地仓库
+
+git push -remote -branch 把本地仓库更新推送到远程仓库
+
+git pull -remote  拉取远程仓库的更新 
